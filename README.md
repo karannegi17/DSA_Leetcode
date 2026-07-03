@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/karannegi17/DSA_Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/karannegi17/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/karannegi17/DSA_Leetcode/tree/master/0283-move-zeroes) |
 ## Math
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karannegi17/DSA_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karannegi17/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karannegi17/DSA_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/karannegi17/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
