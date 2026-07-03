@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/karannegi17/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/karannegi17/DSA_Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/karannegi17/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/karannegi17/DSA_Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/karannegi17/DSA_Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/karannegi17/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
