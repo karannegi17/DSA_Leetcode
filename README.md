@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/karannegi17/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/karannegi17/DSA_Leetcode/tree/master/0125-valid-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/karannegi17/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/karannegi17/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
