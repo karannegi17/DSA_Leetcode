@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/karannegi17/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1903-largest-odd-number-in-string](https://github.com/karannegi17/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karannegi17/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/karannegi17/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/karannegi17/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/karannegi17/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/karannegi17/DSA_Leetcode/tree/master/0242-valid-anagram) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/karannegi17/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/karannegi17/DSA_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/karannegi17/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/karannegi17/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
