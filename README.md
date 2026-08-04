@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/karannegi17/DSA_Leetcode/tree/master/0292-nim-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/karannegi17/DSA_Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/karannegi17/DSA_Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
