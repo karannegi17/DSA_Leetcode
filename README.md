@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/karannegi17/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
