@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karannegi17/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/karannegi17/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/karannegi17/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/karannegi17/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/karannegi17/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karannegi17/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/karannegi17/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
