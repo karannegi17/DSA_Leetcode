@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/karannegi17/DSA_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karannegi17/DSA_Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/karannegi17/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/karannegi17/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/karannegi17/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/karannegi17/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karannegi17/DSA_Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/karannegi17/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
