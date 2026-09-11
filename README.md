@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/karannegi17/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/karannegi17/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/karannegi17/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/karannegi17/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karannegi17/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/karannegi17/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karannegi17/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/karannegi17/DSA_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/karannegi17/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/karannegi17/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/karannegi17/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/karannegi17/DSA_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/karannegi17/DSA_Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/karannegi17/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/karannegi17/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/karannegi17/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/karannegi17/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karannegi17/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/karannegi17/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
