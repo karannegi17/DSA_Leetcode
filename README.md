@@ -240,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/karannegi17/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/karannegi17/DSA_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
